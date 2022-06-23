@@ -20,10 +20,6 @@ The project compared the performance of 3 models:
 # Evaluation
 
 Model | Accuracy | Pracision | Rercall | F1-score
---- | --- | --- | --- |--- 
 Logistic Regression | 0.835 | 0.832 | 0.835 | 0.831 
---- | --- | --- | --- |--- |
 C-Support Vector Classification | 0.817 | 0.811 | 0.817 | 0.813 
---- | --- | --- | --- |--- |
 Neural network | 0.776 | 0.774 | 0.776 | 0.775 
---- | --- | --- | --- |--- |
